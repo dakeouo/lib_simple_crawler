@@ -1,0 +1,251 @@
+------java查詢結果：條目151-200，共281個結果查獲------
+No.151[電子書]
+書名:JSP practical guide for Java programmers
+作者:Brunner, Robert J.
+出版地/出版社/出版年:Amsterdam ; Boston : Elsevier, 2003.
+            
+No.152[電子書]
+書名:Programming with objects a comparative presentation of object-oriented programming with C++ and Java
+作者:Kak, Avinash C.
+出版地/出版社/出版年:Hoboken, NJ : John Wiley, 2003.
+            
+No.153[電子書]
+書名:Programming for linguists Java technology for language researchers
+作者:Hammond, Michael, 1957-
+出版地/出版社/出版年:Oxford ; Malden, MA : Blackwell Publishers, 2002.
+            
+No.154[電子書]
+書名:Software engineering, artificial intelligence, networking and parallel/distributed computing 2015
+作者:
+出版地/出版社/出版年:Cham : Springer International Publishing : Imprint: Springer, 2016.
+            
+No.155[電子書]
+書名:Beginning hybrid mobile application development
+作者:Panhale, Mahesh.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2016.
+            
+No.156[電子書]
+書名:SOFSEM 2016 theory and practice of computer science : 42nd International Conference on Current Trend
+作者:SOFSEM (Conference) (42nd : 2016 : Harrachov, Czech Republic)
+出版地/出版社/出版年:Berlin, Heidelberg : Springer Berlin Heidelberg : Imprint: Springer, 2016.
+            
+No.157[電子書]
+書名:Formal methods: foundations and applications 18th Brazilian Symposium, SBMF 2015, Belo Horizonte, Br
+作者:Brazilian Symposium on Formal Methods (18th : 2015 : Belo Horizonte, Brazil)
+出版地/出版社/出版年:Cham : Springer International Publishing : Imprint: Springer, 2016.
+            
+No.158[電子書]
+書名:Smart card research and advanced applications 14th International Conference, CARDIS 2015, Bochum, Ge
+作者:CARDIS (Conference) (14th : 2015 : Bochum, Germany)
+出版地/出版社/出版年:Cham : Springer International Publishing : Imprint: Springer, 2016.
+            
+No.159[電子書]
+書名:Designing platform independent mobile apps and services
+作者:Heckman, Rocky, author.
+出版地/出版社/出版年:(None)
+            
+No.160[電子書]
+書名:Engineering information security : the application of systems engineering concepts to achieve inform
+作者:Jacobs, Stuart, author.
+出版地/出版社/出版年:(None)
+            
+No.161[電子書]
+書名:Designing platform independent mobile apps and services
+作者:Heckman, Rocky, author.
+出版地/出版社/出版年:(None)
+            
+No.162[電子書]
+書名:Handbook of iris recognition
+作者:
+出版地/出版社/出版年:London : Springer London : Imprint: Springer, 2016.
+            
+No.163[電子書]
+書名:Selected papers from the asia conference on economics & business research 2015
+作者:Asia Conference on Economics & Business Research (2015 : Singapore)
+出版地/出版社/出版年:Singapore : Springer Singapore : Imprint: Springer, 2016.
+            
+No.164[電子書]
+書名:Beginning Ruby from novice to professional
+作者:Cooper, Peter.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2016.
+            
+No.165[電子書]
+書名:Static analysis 23rd International Symposium, SAS 2016, Edinburgh, UK, September 8-10, 2016 : procee
+作者:International Static Analysis Symposium (23rd : 2016 : Edinburgh, Scotland)
+出版地/出版社/出版年:Berlin, Heidelberg : Springer Berlin Heidelberg : Imprint: Springer, 2016.
+            
+No.166[電子書]
+書名:Learning Groovy
+作者:Davis, Adam L.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2016.
+            
+No.167[電子書]
+書名:Programming languages 20th Brazilian Symposium, SBLP 2016, Maringa, Brazil, September 22-23, 2016 : 
+作者:SBLP (Symposium) (20th : 2016 : Maringa, Brazil)
+出版地/出版社/出版年:Cham : Springer International Publishing : Imprint: Springer, 2016.
+            
+No.168[電子書]
+書名:Early navigation in the Asia-Pacific region a maritime archaeological perspective
+作者:
+出版地/出版社/出版年:Singapore : Springer Singapore : Imprint: Springer, 2016.
+            
+No.169[電子書]
+書名:Resource management for big data platforms algorithms, modelling, and high-performance computing tec
+作者:
+出版地/出版社/出版年:Cham : Springer International Publishing : Imprint: Springer, 2016.
+            
+No.170[電子書]
+書名:Beginning Hibernate for Hibernate 5
+作者:Ottinger, Joseph B.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2016.
+            
+No.171[電子書]
+書名:Erlang and Elixir for imperative programmers
+作者:Loder, Wolfgang.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2016.
+            
+No.172[電子書]
+書名:Appium recipes
+作者:Garg, Shankar.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2016.
+            
+No.173[電子書]
+書名:Internetware a new software paradigm for internet computing
+作者:Mei, Hong.
+出版地/出版社/出版年:Singapore : Springer Singapore : Imprint: Springer, 2016.
+            
+No.174[電子書]
+書名:Beginning Android games
+作者:Zechner, Mario.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2016.
+            
+No.175[電子書]
+書名:Leap motion for developers
+作者:Nandy, Abhishek.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2016.
+            
+No.176[電子書]
+書名:Software engineering research, management and applications
+作者:SERA (Conference) (12th : 2014 : Kitakyushu, Japan)
+出版地/出版社/出版年:Cham : Springer International Publishing : Imprint: Springer, 2015.
+            
+No.177[電子書]
+書名:UML @ classroom an introduction to object-oriented modeling
+作者:
+出版地/出版社/出版年:Cham : Springer International Publishing : Imprint: Springer, 2015.
+            
+No.178[電子書]
+書名:New perspectives on the history of life sciences and agriculture
+作者:
+出版地/出版社/出版年:Cham : Springer International Publishing : Imprint: Springer, 2015.
+            
+No.179[電子書]
+書名:Smart card research and advanced applications 13th International Conference, CARDIS 2014, Paris, Fra
+作者:CARDIS (Conference) (13th : 2014 : Paris, France)
+出版地/出版社/出版年:Cham : Springer International Publishing : Imprint: Springer, 2015.
+            
+No.180[電子書]
+書名:Compiler construction 24th International Conference, CC 2015, held as part of the European Joint Con
+作者:CC (Conference) (24th : 2015 : London, England)
+出版地/出版社/出版年:Berlin, Heidelberg : Springer Berlin Heidelberg : Imprint: Springer, 2015.
+            
+No.181[電子書]
+書名:Food security and food safety for the Twenty-first century proceedings of APSAFE2013
+作者:International Conference of the Asia-Pacific Society for Agricultural and Food Ethics (1st : 2013 : Chulalongkorn University)
+出版地/出版社/出版年:Singapore : Springer Singapore : Imprint: Springer, 2015.
+            
+No.182[電子書]
+書名:Javavlosures and Lambda
+作者:Fischer, Robert.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2015.
+            
+No.183[電子書]
+書名:Hibernate recipes
+作者:Ottinger, Joseph.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2015.
+            
+No.184[電子書]
+書名:Stripes by example
+作者:Watson, Brent.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2015.
+            
+No.185[電子書]
+書名:Model-integrating software components engineering flexible software systems
+作者:Derakhshanmanesh, Mahdi.
+出版地/出版社/出版年:Wiesbaden : Springer Fachmedien Wiesbaden : Imprint: Springer Vieweg, 2015.
+            
+No.186[電子書]
+書名:Structured object-oriented formal language and method 4th International Workshop, SOFL+MSVL 2014, Lu
+作者:SOFL+MSVL (Workshop) (4th : 2014 : Luxembourg, Luxembourg)
+出版地/出版社/出版年:Cham : Springer International Publishing : Imprint: Springer, 2015.
+            
+No.187[電子書]
+書名:Logic-based program synthesis and transformation 24th International Symposium, LOPSTR 2014, Canterbu
+作者:LOPSTR (Symposium) (24th : 2014 : Canterbury, England)
+出版地/出版社/出版年:Cham : Springer International Publishing : Imprint: Springer, 2015.
+            
+No.188[電子書]
+書名:Computer aided verification 27th International Conference, CAV 2015, San Francisco, CA, USA, July 18
+作者:CAV (Conference) (27th : 2015 : San Francisco, Calif.)
+出版地/出版社/出版年:Cham : Springer International Publishing : Imprint: Springer, 2015.
+            
+No.189[電子書]
+書名:Object-oriented analysis, design and implementation an integrated approach
+作者:Dathan, Brahma.
+出版地/出版社/出版年:Cham : Springer International Publishing : Imprint: Springer, 2015.
+            
+No.190[電子書]
+書名:Runtime verification 6th International Conference, RV 2015, Vienna, Austria, September 22-25, 2015 :
+作者:RV (Conference) (6th : 2015 : Vienna, Austria)
+出版地/出版社/出版年:Cham : Springer International Publishing : Imprint: Springer, 2015.
+            
+No.191[電子書]
+書名:Pivotal certified Spring enterprise integration specialist exam a study guide
+作者:Krnac, Lubos.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2015.
+            
+No.192[電子書]
+書名:Pivotal Certified Spring web application developer exam a study guide
+作者:Cosmina, Iuliana.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2015.
+            
+No.193[電子書]
+書名:Introducing Gradle
+作者:Varanasi, Balaji.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2015.
+            
+No.194[電子書]
+書名:Apache Solr a practical approach to enterprise search
+作者:Shahi, Dikshant.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2015.
+            
+No.195[電子書]
+書名:Digital audio editing fundamentals
+作者:Jackson, Wallace.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2015.
+            
+No.196[電子書]
+書名:Beginning Hibernate
+作者:Ottinger, Joseph B.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2014.
+            
+No.197[電子書]
+書名:Introducing Spring Framework a primer
+作者:Gutierrez, Felipe.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2014.
+            
+No.198[電子書]
+書名:JavaFX 8 introduction by example
+作者:
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2014.
+            
+No.199[電子書]
+書名:Pro Spring
+作者:Schaefer, Chris.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2014.
+            
+No.200[電子書]
+書名:Spring recipes a problem-solution approach
+作者:
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2014.
+            

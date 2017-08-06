@@ -1,0 +1,208 @@
+------django查詢結果：條目1-20，共20個結果查獲------
+No.1[一般圖書]
+書名:Python新手使用django架站的16堂課 : 活用Django Web Framework快速建構動態網站
+作者:何 敏煌
+出版地/出版社/出版年:新北市汐止區 : 博碩文化, 2016[民105]
+            
+==========================================================
+               [NTUST Library Information]
+
+館藏地:附件
+條碼:D307092
+索書號:
+冊次:acp
+年代:
+狀態:可外借
+-----------------
+                    
+館藏地:本館
+條碼:C307092
+索書號:312.32P97 793-2 《鄰近架位館藏》
+冊次:
+年代:
+狀態:到期 17/08/10 +2 已催還
+-----------------
+                    
+No.2[一般圖書]
+書名:Two scoops of Django : best practices for Django 1.8
+作者:Greenfeld, Daniel Roy.
+出版地/出版社/出版年:[Corona, CA?] : Two Scoops Press, 2015.
+            
+==========================================================
+               [NTUST Library Information]
+
+館藏地:本館
+條碼:0117165
+索書號:TK5105.8885.D54 G837 2015 《鄰近架位館藏》
+冊次:
+年代:
+狀態:可外借
+-----------------
+                    
+No.3[電子書]
+書名:It's Django : 用Python迅速打造Web應用!
+作者:袁 克倫
+出版地/出版社/出版年:臺北市 : 碁峰資訊公司, 2015
+            
+No.4[電子書]
+書名:Beginning django CMS
+作者:George, Nigel.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2015.
+            
+No.5[一般圖書]
+書名:It's django : 用Python迅速打造Web應用!
+作者:袁 克倫
+出版地/出版社/出版年:臺北市 : 碁峰資訊, 2015[民104]
+            
+==========================================================
+               [NTUST Library Information]
+
+館藏地:本館
+條碼:C297999
+索書號:312.32P97 757 《鄰近架位館藏》
+冊次:
+年代:
+狀態:到期 17/08/30
+-----------------
+                    
+No.6[一般圖書]
+書名:Pro django
+作者:Alchin, M.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2013.
+            
+==========================================================
+               [NTUST Library Information]
+
+館藏地:本館
+條碼:0114108
+索書號:TK5105.888 Al16 2013 《鄰近架位館藏》
+冊次:
+年代:
+狀態:可外借
+-----------------
+                    
+No.7[電子書]
+書名:Pro Django
+作者:Alchin, Marty.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2013.
+            
+No.8[電子書]
+書名:The definitive guide to Django Web development done right
+作者:Holovaty, Adrian.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2009.
+            
+No.9[電子書]
+書名:Practical django projects
+作者:Bennett, James.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2009.
+            
+No.10[電子書]
+書名:Beginning django e-commerce
+作者:McGaw, Jim.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2009.
+            
+No.11[電子書]
+書名:The Definitive Guide to Django Web Development Done Right
+作者:Holovaty, Adrian.
+出版地/出版社/出版年:Berkeley, CA : Adrian Holovaty and Jacob Kaplan-Moss, 2008.
+            
+No.12[電子書]
+書名:Practical django projects
+作者:Bennett, James.
+出版地/出版社/出版年:Berkeley, Calif. : Apress ; New York : Distributed to the book trade in the United States by Springer-Verlag, 2008
+            
+No.13[一般圖書]
+書名:禁忌圖書館
+作者:偉克斯勒 (Wexler, Django)
+出版地/出版社/出版年:臺北市 : 皇冠文化, 2016[民105]
+            
+==========================================================
+               [NTUST Library Information]
+
+館藏地:本館
+條碼:C301679
+索書號:889 755.22 《鄰近架位館藏》
+冊次:
+年代:
+狀態:可外借
+-----------------
+                    
+No.14[一般圖書]
+書名:禁忌圖書館
+作者:偉克斯勒 (Wexler, Django)
+出版地/出版社/出版年:臺北市 : 皇冠文化, 2016[民105]
+            
+==========================================================
+               [NTUST Library Information]
+
+館藏地:本館
+條碼:C304430
+索書號:889 755.22-2 《鄰近架位館藏》
+冊次:
+年代:
+狀態:可外借
+-----------------
+                    
+No.15[一般圖書]
+書名:禁忌圖書館
+作者:偉克斯勒 (Wexler, Django)
+出版地/出版社/出版年:臺北市 : 皇冠文化, 2016[民105]
+            
+==========================================================
+               [NTUST Library Information]
+
+館藏地:本館
+條碼:C311381
+索書號:889 755.22-3 《鄰近架位館藏》
+冊次:
+年代:
+狀態:到期 17/08/28
+-----------------
+                    
+No.16[一般圖書]
+書名:Python3.5技術手冊
+作者:林 信良
+出版地/出版社/出版年:臺北市 : 碁峰資訊, 2016[民105]
+            
+==========================================================
+               [NTUST Library Information]
+
+館藏地:本館
+條碼:C305318
+索書號:312.32P97 766 《鄰近架位館藏》
+冊次:
+年代:
+狀態:到期 17/08/21
+-----------------
+                    
+No.17[電子書]
+書名:Paradoxical japaneseness cultural representation in twenty-first century japanese cinema
+作者:Dorman, Andrew.
+出版地/出版社/出版年:London : Palgrave Macmillan UK : Imprint: Palgrave Macmillan, 2016.
+            
+No.18[電子書]
+書名:From Uncle Tom's Cabin to The Help critical perspectives on white-authored narratives of black life
+作者:Garcia, Claire Oberon, ed.
+出版地/出版社/出版年:Basingstoke : Palgrave Macmillan, 2014.
+            
+No.19[錄影資料]
+書名:決殺令
+作者:
+出版地/出版社/出版年:臺北市 : 得利影視, 2013[民102]
+            
+==========================================================
+               [NTUST Library Information]
+
+館藏地:1F 視聽資料區
+條碼:E014413
+索書號:DVD PN 14413 《鄰近架位館藏》
+冊次:
+年代:
+狀態:可外借
+-----------------
+                    
+No.20[電子書]
+書名:Contemporary musicians. profiles of the people in music
+作者:
+出版地/出版社/出版年:Detroit, Mich. : Gale Research, c1992.
+            

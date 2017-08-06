@@ -1,0 +1,156 @@
+------java查詢結果：條目251-281，共281個結果查獲------
+No.251[電子書]
+書名:Spring Recipes A Problem-Solution Approach
+作者:Mak, Gary.
+出版地/出版社/出版年:Berkeley, CA : Springer-Verlag New York, 2008.
+            
+No.252[電子書]
+書名:The Definitive Guide to Terracotta Cluster the JVM for Spring, Hibernate, and POJO Scalability
+作者:Terracotta, Inc.
+出版地/出版社/出版年:Berkeley, CA : Springer-Verlag New York, 2008.
+            
+No.253[電子書]
+書名:Pro spring 2.5
+作者:
+出版地/出版社/出版年:Berkeley, Calif. : Apress ; New York : Distributed to the book trade in the United States by Springer-Verlag, 2008
+            
+No.254[電子書]
+書名:Foundations of 3D graphics programming using JOGL and Java3D
+作者:Chen, Chunyang.
+出版地/出版社/出版年:London : Springer-Verlag London, 2008.
+            
+No.255[電子書]
+書名:J2ME手機遊戲開發詳解 : 快速入門、觀點剖析、商業案例
+作者:龔 劍
+出版地/出版社/出版年:臺北市 : 文魁資訊, 2008[民97]
+            
+No.256[電子書]
+書名:An integrated architecture for a Networked Robotics Laboratory using an asynchronous distance learni
+作者:Harris, William C.
+出版地/出版社/出版年:(None)
+            
+No.257[電子書]
+書名:Chip multiprocessor architecture techiniques to improve throughput and latency
+作者:Olukotun, Kunle.
+出版地/出版社/出版年:San Rafael, Calif (1537 Fourth Street, San Rafael, CA 94901 USA) : Morgan & Claypool Publishers, 2007.
+            
+No.258[電子書]
+書名:Proceedings of the 10th Italian  Conference on Theoretical Computer Science (ICTCS '07), Rome, Italy
+作者:Italian Conference on Theoretical Computer Science (10th :  2007 : Rome, Italy)
+出版地/出版社/出版年:Singapore : World Scientific Pub., c2007.
+            
+No.259[電子書]
+書名:Proceedings of the 10th Italian  Conference on Theoretical Computer Science (ICTCS '07), Rome, Italy
+作者:Italian Conference on Theoretical Computer Science (10th :  2007 : Rome, Italy)
+出版地/出版社/出版年:Singapore : World Scientific Pub., c2007.
+            
+No.260[電子書]
+書名:Sams teach yourself CSS in 24 hours
+作者:Bartlett, Kynn.
+出版地/出版社/出版年:Indianapolis, Ind. : Sams ; Hemel Hempstead : Prentice Hall [distributor], 2006.
+            
+No.261[電子書]
+書名:Design and prototyping of a cognitive model-based decision support tool for anesthesia provider mana
+作者:Segall, Noa.
+出版地/出版社/出版年:(None)
+            
+No.262[電子書]
+書名:Dynamic task planning in Web-based product design and manufacturing environments.
+作者:Chung, Chulho.
+出版地/出版社/出版年:(None)
+            
+No.263[電子書]
+書名:Intelligent 3D interactive open pit mine planning and optimization.
+作者:Askari-Nasab, Hooman.
+出版地/出版社/出版年:(None)
+            
+No.264[電子書]
+書名:J2ME無線移動遊戲開發
+作者:施 錚
+出版地/出版社/出版年:北京 : 人民郵電出版社, 2006
+            
+No.265[電子書]
+書名:J2ME無線開發實用教程
+作者:仵 博
+出版地/出版社/出版年:北京 : 淸華大學出版社, 2006
+            
+No.266[電子書]
+書名:Expert Oracle JDBC Programming
+作者:Menon, R. M.
+出版地/出版社/出版年:Berkeley, CA : Apress ; New York : Distributed to the book trade in the United States by Springer-Verlag, 2005.
+            
+No.267[電子書]
+書名:Pro Spring
+作者:Harrop, Rob.
+出版地/出版社/出版年:Berkeley, CA : Apress ; New York : distributed to the book trade in the United States by Springer-Verlag, 2005.
+            
+No.268[電子書]
+書名:Beginning J2ME From Novice to Professional
+作者:Li, Sing.
+出版地/出版社/出版年:Berkeley, CA : Apress ; New York : Distributed to the book trade in the United States by Springer-Verlag, 2005.
+            
+No.269[電子書]
+書名:Pro Eclipse JST Plug-ins for J2EE Development
+作者:Judd, Christopher M.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2005.
+            
+No.270[電子書]
+書名:Pro Apache Log4j
+作者:Gupta, Samudra.
+出版地/出版社/出版年:Berkeley, CA : Apress ; New York : Distributed by Springer-Verlag, 2005.
+            
+No.271[電子書]
+書名:Foundations of AOP for J2EE Development
+作者:Pawlak, Renaud.
+出版地/出版社/出版年:Berkeley, CA : Apress ; New York : Distributed to the book trade worldwide by Springer-Verlag, 2005.
+            
+No.272[電子書]
+書名:Pro Hibernate 3
+作者:Minter, Dave.
+出版地/出版社/出版年:Berkeley, CA : Apress ; New York : Distributed to the book trade in the United States by Springer-Verlag New York, 2005.
+            
+No.273[電子書]
+書名:Pro JSP 2
+作者:
+出版地/出版社/出版年:Berkeley, CA : [springer], 2005.
+            
+No.274[電子書]
+書名:JDBC Recipes A Problem-Solution Approach
+作者:Parsian, Mahmoud.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2005.
+            
+No.275[電子書]
+書名:Gamelan the traditional sounds of Indonesia
+作者:Spiller, Henry.
+出版地/出版社/出版年:Santa Barbara, Calif. : ABC-CLIO, c2004.
+            
+No.276[電子書]
+書名:Debugging by thinking a multidisciplinary approach
+作者:Metzger, Robert C.
+出版地/出版社/出版年:Boston : Digital Press, c2004.
+            
+No.277[電子書]
+書名:Web services theory and practice
+作者:Gurug歋, Anura.
+出版地/出版社/出版年:Burlington, MA : Digital Press, c2004.
+            
+No.278[電子書]
+書名:Multicast sockets practical guide for programmers
+作者:Makofske, David B.
+出版地/出版社/出版年:San Francisco, CA : Morgan Kaufmann Publishers, c2003.
+            
+No.279[電子書]
+書名:E-business implementation a guide to Web services, EAI, BPI, e-commerce, content management, portals
+作者:Watt, Dougal.
+出版地/出版社/出版年:Oxford ; Boston : Butterworth-Heinemann, 2002.
+            
+No.280[電子書]
+書名:Financial Engineering and Computation : Principles, Mathematics, Algorithms.
+作者:Lyuu, Yuh-Dauh.
+出版地/出版社/出版年:Cambridge : Cambridge University Press, 2001.
+            
+No.281[電子書]
+書名:Hack proofing your Web applications
+作者:
+出版地/出版社/出版年:Rockland, Mass. : Syngress Publishing, Inc., c2001.
+            

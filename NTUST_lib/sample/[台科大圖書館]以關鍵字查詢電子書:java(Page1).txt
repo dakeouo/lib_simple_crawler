@@ -1,0 +1,251 @@
+------java查詢結果：條目1-50，共281個結果查獲------
+No.1[電子書]
+書名:Java design patterns a tour of 23 gang of four design patterns in Java
+作者:Sarcar, Vaskaran.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2016.
+            
+No.2[電子書]
+書名:Oracle Certified Professional Java SE 8 programmer exam 1Z0-809 comprehensive OCPJP 8 certification 
+作者:Ganesh, S G.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2016.
+            
+No.3[電子書]
+書名:Numeric computation and statistical data analysis on the Java platform
+作者:Chekanov, Sergei V.
+出版地/出版社/出版年:Cham : Springer International Publishing : Imprint: Springer, 2016.
+            
+No.4[電子書]
+書名:Java XML and JSON
+作者:Jeff Friesen.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2016.
+            
+No.5[電子書]
+書名:Reactive Java programming
+作者:Maglie, Andrea.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2016.
+            
+No.6[電子書]
+書名:Beginning robotics programming in Java with LEGO Mindstorms
+作者:Lu, Wei.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2016.
+            
+No.7[電子書]
+書名:Java Lambdas and parallel streams
+作者:Muller, Michael.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2016.
+            
+No.8[電子書]
+書名:Building trading bots using Java
+作者:Varshney, Shekhar.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2016.
+            
+No.9[電子書]
+書名:Interactive object oriented programming in Java learn and test your skills
+作者:Sarcar, Vaskaran.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2016.
+            
+No.10[電子書]
+書名:From requirements to Java in a snap model-driven requirements engineering in practice
+作者:Smialek, Michal.
+出版地/出版社/出版年:Cham : Springer International Publishing : Imprint: Springer, 2015.
+            
+No.11[電子書]
+書名:Pro Java 8 programming
+作者:Spell, Brett.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2015.
+            
+No.12[電子書]
+書名:Genetic algorithms in Java basics
+作者:Jacobson, Lee.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2015.
+            
+No.13[電子書]
+書名:Java I/O, NIO and NIO.2
+作者:Friesen, Jeff.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2015.
+            
+No.14[電子書]
+書名:Beginning Java game development with LibGDX
+作者:Stemkoski, Lee.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2015.
+            
+No.15[電子書]
+書名:Java programming 24-hour trainer
+作者:Fain, Yakov.
+出版地/出版社/出版年:Indianapolis, Indiana : Wrox, A Wiley Brabd, c2015.
+            
+No.16[電子書]
+書名:Professional Java EE design patterns
+作者:Yener, Murat.
+出版地/出版社/出版年:Indianapolis, IN : John Wiley and Sons, 2015.
+            
+No.17[電子書]
+書名:Guide to Java a concise introduction to programming
+作者:Streib, James T.
+出版地/出版社/出版年:London : Springer London : Imprint: Springer, 2014.
+            
+No.18[電子書]
+書名:Advanced topics in Java core concepts in data structures
+作者:Kalicharan, Noel.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2014.
+            
+No.19[電子書]
+書名:Learn Java for web development
+作者:Layka, Vishal.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2014.
+            
+No.20[電子書]
+書名:Learn Java for Android development
+作者:Friesen, Jeff.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2014.
+            
+No.21[電子書]
+書名:Beginning Java 8 fundamentals language syntax, arrays, data types, objects, and regular expressions
+作者:Sharan, Kishori.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2014.
+            
+No.22[電子書]
+書名:Beginning Java 8 language features Lambda expressions, inner classes, threads, I/O, collections, and
+作者:Sharan, Kishori.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2014.
+            
+No.23[電子書]
+書名:Beginning Java 8 APIs, extensions and libraries Swing, JavaFX, JavaScript, JDBC and network programm
+作者:Sharan, Kishori.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2014.
+            
+No.24[電子書]
+書名:Java 8 Recipes
+作者:Juneau, Josh.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2014.
+            
+No.25[電子書]
+書名:Beginning Java 8 games development
+作者:Jackson, Wallace.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2014.
+            
+No.26[電子書]
+書名:Scripting in Java integrating with Groovy and JavaScript
+作者:Sharan, Kishori.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2014.
+            
+No.27[電子書]
+書名:Learn Java for Android development
+作者:Friesen, Jeff.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2013.
+            
+No.28[電子書]
+書名:Java EE 7 recipes a problem-solution approach
+作者:Juneau, Josh.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2013.
+            
+No.29[電子書]
+書名:An introduction to network programming with Java Java 7 Compatible
+作者:Graba, Jan.
+出版地/出版社/出版年:London : Springer London : Imprint: Springer, 2013.
+            
+No.30[電子書]
+書名:Beginning Java EE 7
+作者:Goncalves, Antonio.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2013.
+            
+No.31[電子書]
+書名:Introducing Java EE 7 a look at what's new
+作者:Juneau, Josh.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2013.
+            
+No.32[電子書]
+書名:Oracle certified professional Java SE 7 programmer exams 1Z0-804 and 1Z0-805 a comprehensive OCPJP 7
+作者:Ganesh, S G.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2013.
+            
+No.33[電子書]
+書名:Java quick syntax reference
+作者:Olsson, Mikael.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2013.
+            
+No.34[電子書]
+書名:Beginning Java with WebSphere
+作者:Janson, Robert W.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2013.
+            
+No.35[電子書]
+書名:Visual information retrieval using Java and LIRE
+作者:Lux, Mathias.
+出版地/出版社/出版年:[San Rafael, Calif.] : Morgan & Claypool Publishers, c2013.
+            
+No.36[電子書]
+書名:Guide to web development with Java understanding website creation
+作者:Downey, Tim.
+出版地/出版社/出版年:London : Springer London, 2012.
+            
+No.37[電子書]
+書名:Foundational Java key elements and practical programming
+作者:Parsons, David.
+出版地/出版社/出版年:London : Springer London, 2012.
+            
+No.38[電子書]
+書名:Distributed, embedded and real-time Java systems
+作者:
+出版地/出版社/出版年:Boston, MA : Springer US, 2012.
+            
+No.39[電子書]
+書名:Compiler construction using Java, JavaCC, and Yacc
+作者:Dos Reis, Anthony J.
+出版地/出版社/出版年:Hoboken, N.J. : Wiley-IEEE Computer Society, c2012.
+            
+No.40[電子書]
+書名:Islamisation and its opponents in Java a political, social, cultural and religious history, c. 1930 
+作者:Ricklefs, M. C. (Merle Calvin), 1943-
+出版地/出版社/出版年:Singapore : NUS Press, c2012 (Baltimore, Md. : Project MUSE, 2013)
+            
+No.41[電子書]
+書名:Java程式設計基礎與實訓
+作者:
+出版地/出版社/出版年:合肥市 : 安徽科學技術出版社, 2012
+            
+No.42[電子書]
+書名:Java組件技術
+作者:
+出版地/出版社/出版年:西安市 : 西安交通大學出版社, 2012
+            
+No.43[電子書]
+書名:Java實用程式設計技術
+作者:張 祖昶
+出版地/出版社/出版年:北京市 : 人民郵電出版社, 2012
+            
+No.44[電子書]
+書名:Java網路程式設計
+作者:朱 輝
+出版地/出版社/出版年:西安市 : 西安電子科技大學出版社, 2012
+            
+No.45[電子書]
+書名:Programming GPS and OpenStreetMap applications with Java the RealObject application framework
+作者:Beiglböck, Kristof.
+出版地/出版社/出版年:Boca Raton : A K Peters/CRC Press, c2012.
+            
+No.46[電子書]
+書名:Pro Java ME Apps
+作者:Iliescu, Ovidiu.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2011.
+            
+No.47[電子書]
+書名:Expert oracle and Java Security programming secure Oracle database applications with Java
+作者:Coffin, David.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2011.
+            
+No.48[電子書]
+書名:Beginning Java 7
+作者:Friesen, Jeff.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2011.
+            
+No.49[電子書]
+書名:Pro Java 7 NIO.2
+作者:Leonard, Anghel.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2011.
+            
+No.50[電子書]
+書名:Practical database programming with Java
+作者:Bai, Ying, 1956-
+出版地/出版社/出版年:Hoboken, N.J. : Wiley, 2011.
+            

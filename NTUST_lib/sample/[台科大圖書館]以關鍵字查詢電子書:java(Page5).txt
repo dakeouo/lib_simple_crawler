@@ -1,0 +1,251 @@
+------java查詢結果：條目201-250，共281個結果查獲------
+No.201[電子書]
+書名:Introducing Maven
+作者:Varanasi, Balaji.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2014.
+            
+No.202[電子書]
+書名:Agile estimation techniques and innovative approaches to software process improvement
+作者:(None)
+出版地/出版社/出版年:(None)
+            
+No.203[電子書]
+書名:Heat transfer virtual lab for students and engineers : theory and guide for setting up
+作者:Fridman, Ella., author.
+出版地/出版社/出版年:(None)
+            
+No.204[電子書]
+書名:Performance, popular culture, and piety in Muslim Southeast Asia
+作者:
+出版地/出版社/出版年:New York, N.Y. : Palgrave Macmillan, c2013.
+            
+No.205[電子書]
+書名:Beginning Groovy, Grails and Griffon
+作者:
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2013.
+            
+No.206[電子書]
+書名:Pro Spring security
+作者:Scarioni, Carlo.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2013.
+            
+No.207[電子書]
+書名:Pro Hibernate and MongoDB
+作者:Leonard, Anghel.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2013.
+            
+No.208[電子書]
+書名:Pro JPA 2
+作者:Keith, Mike.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2013.
+            
+No.209[電子書]
+書名:Empire and science in the making : Dutch colonial scholarship in comparative global perspective, 176
+作者:(None)
+出版地/出版社/出版年:(None)
+            
+No.210[電子書]
+書名:物件導向程式設計 : Java
+作者:張 白一
+出版地/出版社/出版年:西安市 : 西安電子科技大學出版社, 2013
+            
+No.211[電子書]
+書名:Pro Spring 3
+作者:Ho, Clarence.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2012.
+            
+No.212[電子書]
+書名:Pro Spring MVC with Web Flow
+作者:
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2012.
+            
+No.213[電子書]
+書名:Transactions on aspect-oriented software development IX
+作者:
+出版地/出版社/出版年:Berlin, Heidelberg : Springer Berlin Heidelberg : Imprint: Springer, 2012.
+            
+No.214[電子書]
+書名:Programming languages and systems 10th Asian Symposium, APLAS 2012, Kyoto, Japan, December 11-13, 20
+作者:APLAS 2012 (2012 : Kyoto, Japan)
+出版地/出版社/出版年:Berlin, Heidelberg : Springer Berlin Heidelberg : Imprint: Springer, 2012.
+            
+No.215[電子書]
+書名:Pro Android apps performance optimization
+作者:Guihot, Herve.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2012.
+            
+No.216[電子書]
+書名:Computational ecology graphs, networks and agent-based modeling
+作者:Zhang, Wenjun.
+出版地/出版社/出版年:Singapore ; Hackensack, N.J. ; London : World Scientific, c2012.
+            
+No.217[電子書]
+書名:Pro Spring integration
+作者:
+出版地/出版社/出版年:Berkeley, CA : Apress, 2011.
+            
+No.218[電子書]
+書名:Pro Spring Batch
+作者:Minella, Michael T.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2011.
+            
+No.219[電子書]
+書名:Interactive quantum mechanics quantum experiments on the computer
+作者:Brandt, S.
+出版地/出版社/出版年:New York, NY : Springer Science+Business Media, LLC, 2011.
+            
+No.220[電子書]
+書名:Design of multithreaded software the entity-life modeling approach
+作者:Sand⥮, Bo.
+出版地/出版社/出版年:Hoboken, N.J. : John Wiley & Sons, c2011
+            
+No.221[電子書]
+書名:No concessions the life of Yap Thiam Hien,Indonesian human rights lawyer
+作者:Lev, Daniel S.
+出版地/出版社/出版年:Seattle : University of Washington Press, c2011. (Baltimore, Md. : Project MUSE, 2013)
+            
+No.222[電子書]
+書名:Location-based information systems developing real-time tracking applications
+作者:Labrador, Miguel A.
+出版地/出版社/出版年:Boca Raton : CRC Press, c2011.
+            
+No.223[電子書]
+書名:MATLAB primer
+作者:Davis, Timothy A.
+出版地/出版社/出版年:Boca Raton : CRC Press, c2011.
+            
+No.224[電子書]
+書名:Mobile Web 2.0 developing and delivering services to mobile devices
+作者:
+出版地/出版社/出版年:Boca Raton : Auerbach Publications, c2011.
+            
+No.225[電子書]
+書名:Southeast Asia past and present
+作者:SarDesai, D. R.
+出版地/出版社/出版年:Boulder, CO : Westview Press, c2010.
+            
+No.226[電子書]
+書名:Real-world Flash game development how to follow best practices and keep your sanity
+作者:Griffith, Christopher, 1979-
+出版地/出版社/出版年:Burlington, MA : Focal Press, c2010.
+            
+No.227[電子書]
+書名:Hibernate recipes : a problem-solution approach
+作者:Guruzu, Srinivas.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2010.
+            
+No.228[電子書]
+書名:Spring recipes
+作者:Mak, Gary.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2010.
+            
+No.229[電子書]
+書名:Beginning JavaFX
+作者:Premkumar, Lawrence.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2010.
+            
+No.230[電子書]
+書名:Practical Clojure
+作者:VanderHart, Luke.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2010.
+            
+No.231[電子書]
+書名:Spring persistence with hibernate
+作者:Fisher, Paul Tepper.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2010.
+            
+No.232[電子書]
+書名:Assessing fundamental introductory computing concept knowledge in a language independent manner.
+作者:Tew, Allison Elliott.
+出版地/出版社/出版年:(None)
+            
+No.233[電子書]
+書名:Rasa affect and intuition in Javanese musical aesthetics
+作者:Benamou, Marc.
+出版地/出版社/出版年:New York ; Oxford : Oxford University Press, 2010.
+            
+No.234[電子書]
+書名:資料結構 : 使用Java
+作者:呂 高旭
+出版地/出版社/出版年:臺北市 : 藍海, 2010[民99]
+            
+No.235[電子書]
+書名:Healing the herds disease, livestock economies, and the globalization of veterinary medicine
+作者:
+出版地/出版社/出版年:Athens : Ohio University Press, c2010. (Baltimore, Md. : ProjectMUSE, 2013)
+            
+No.236[電子書]
+書名:Screwball television critical perspectiveson Gilmore girls
+作者:
+出版地/出版社/出版年:Syracuse : Syracuse University Press, 2010. (Baltimore, Md. : Project MUSE, 2013)
+            
+No.237[電子書]
+書名:Oracle embedded programming and application development
+作者:Lakshman, Bulusu.
+出版地/出版社/出版年:Boca Raton, FL : CRC Press, ©2010.
+            
+No.238[電子書]
+書名:The definitive guide to Netbeans Platform
+作者:Bock, Heiko.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2009.
+            
+No.239[電子書]
+書名:Beginning Scala
+作者:Pollak, David.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2009.
+            
+No.240[電子書]
+書名:Pro SpringSource dm Server
+作者:Mak, Gary.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2009.
+            
+No.241[電子書]
+書名:Developing with Ext GWT enterprise RIA development
+作者:Slender, Grant.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2009.
+            
+No.242[電子書]
+書名:Pro Flex on Spring
+作者:Giametta, Chris.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2009.
+            
+No.243[電子書]
+書名:Practical Eclipse Rich Client Platform projects
+作者:Silva, Vladimir.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2009.
+            
+No.244[電子書]
+書名:Why programs fail a guide to systematic debugging
+作者:Zeller, Andreas.
+出版地/出版社/出版年:San Francisco, Calif. : Morgan Kaufmann ; Oxford : Elsevier Science [distributor], 2009.
+            
+No.245[電子書]
+書名:Advances in geosciences.
+作者:
+出版地/出版社/出版年:Singapore ; Hackensack, N.J. : World Scientific Pub. Co., c2009.
+            
+No.246[電子書]
+書名:Advances in geosciences.
+作者:
+出版地/出版社/出版年:Singapore ; Hackensack, N.J. : World Scientific Pub. Co., c2009.
+            
+No.247[電子書]
+書名:Pro NetBeans IDE 6 Rich Client Platform Edition
+作者:Myatt, Adam.
+出版地/出版社/出版年:Berkeley, CA : Adam Myatt, 2008.
+            
+No.248[電子書]
+書名:Accelerated GWT Building Enterprise Google Web Toolkit Applications
+作者:Gupta, Vipul.
+出版地/出版社/出版年:Berkeley, CA : Springer, 2008.
+            
+No.249[電子書]
+書名:Pro Web 2.0 Application Development with GWT
+作者:Dwyer, Jeff.
+出版地/出版社/出版年:Berkeley, CA : Springer, 2008.
+            
+No.250[電子書]
+書名:Google Guice: Agile Lightweight Dependency Injection Framework
+作者:Vanbrabant, Robbie.
+出版地/出版社/出版年:Berkeley, CA : Springer, 2008.
+            

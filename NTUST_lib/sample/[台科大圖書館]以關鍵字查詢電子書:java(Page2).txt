@@ -1,0 +1,251 @@
+------java查詢結果：條目51-100，共281個結果查獲------
+No.51[電子書]
+書名:Advanced Java EE development for Rational Application Developer 7.5 developers' guidebook
+作者:Cole, Kameron.
+出版地/出版社/出版年:Ketchum, Idaho : MC Press, 2011.
+            
+No.52[電子書]
+書名:Java, Indonesia and Islam
+作者:Woodward, Mark.
+出版地/出版社/出版年:Dordrecht : Springer Science+Business Media B.V., 2011.
+            
+No.53[電子書]
+書名:Java 101物件導向程式設計
+作者:呂 瑞麟
+出版地/出版社/出版年:新北市永和區 : 藍海文化, 2011[民100]
+            
+No.54[電子書]
+書名:Java初學指引 : 使用SE7
+作者:陳 錦輝
+出版地/出版社/出版年:新北市 : 博碩, 2011[民100]
+            
+No.55[電子書]
+書名:深入淺出Java程式設計
+作者:陳 明
+出版地/出版社/出版年:新北市 : 易習圖書, 2011[民100]
+            
+No.56[電子書]
+書名:Power, change, and gender relations in rural Java a tale of two villages
+作者:Tickamyer, Ann R.
+出版地/出版社/出版年:Athens : Ohio University Press, c2011. (Baltimore, Md. : ProjectMUSE, 2013)
+            
+No.57[電子書]
+書名:Banditry in West Java, 1869-1942
+作者:Till, Margreet van.
+出版地/出版社/出版年:Singapore : NUS Press, c2011 (Baltimore, Md. : Project MUSE, 2013)
+            
+No.58[電子書]
+書名:Java程式設計
+作者:遲 立穎
+出版地/出版社/出版年:北京市 : 北京航空航太大學出版社, 2011
+            
+No.59[電子書]
+書名:Java語言程式設計
+作者:
+出版地/出版社/出版年:北京市 : 人民郵電出版社, 2011
+            
+No.60[電子書]
+書名:JAVA程式設計
+作者:陳 顯亭
+出版地/出版社/出版年:長春市 : 吉林大學出版社, 2011
+            
+No.61[電子書]
+書名:Java桌面程式開發
+作者:
+出版地/出版社/出版年:大連市 : 大連理工大學出版社, 2011
+            
+No.62[電子書]
+書名:Programming finite elements in Java
+作者:Nikishkov, Gennadiy.
+出版地/出版社/出版年:London : Springer-Verlag London, 2010.
+            
+No.63[電子書]
+書名:Beginning Java EE 6 Platform with GlassFish 3
+作者:Goncalves, Antonio.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2010.
+            
+No.64[電子書]
+書名:Learn Java for Android development
+作者:Friesen, Geoff.
+出版地/出版社/出版年:Berkeley, CA : Springer New York, 2010.
+            
+No.65[電子書]
+書名:Server-side GPS and assisted-GPS in Java
+作者:Harper, Neil.
+出版地/出版社/出版年:Boston : Artech House, c2010.
+            
+No.66[電子書]
+書名:用 Adobe Dreamweaver CS5 學Extension與Java之網頁特效應用
+作者:
+出版地/出版社/出版年:臺北市 : 新造數位出版有限公司, 2010[民99]
+            
+No.67[電子書]
+書名:用 Adobe Dreamweaver CS5 學網頁特殊效果運用 - JavaScript/Java Applet擴充功能
+作者:
+出版地/出版社/出版年:臺北市 : 新造數位出版有限公司, 2010[民99]
+            
+No.68[電子書]
+書名:Java網路程式設計與資料傳遞
+作者:賈 蓉生
+出版地/出版社/出版年:新北市 : 加樺國際, 2010[民99]
+            
+No.69[電子書]
+書名:Java and Mac OS X
+作者:Davis, Gene.
+出版地/出版社/出版年:Hoboken, N.J. : Wiley Pub., c2010.
+            
+No.70[電子書]
+書名:Secure Java for web application development
+作者:Bhargav, Abhay.
+出版地/出版社/出版年:Boca Raton, FL : CRC Press, 2010.
+            
+No.71[電子書]
+書名:Learn Objective-C for Java developers
+作者:Bucanek, James.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2009.
+            
+No.72[電子書]
+書名:A concise and practical introduction to programming algorithms in java
+作者:Nielsen, Frank.
+出版地/出版社/出版年:London : Springer-Verlag London, 2009.
+            
+No.73[電子書]
+書名:OBJECT-ORIENTED PROGRAMMING WITH JAVA ESSENTIALS AND APPLICATIONS
+作者:Buyya, Rajkumar
+出版地/出版社/出版年:New Delhi : Tata McGraw Hill Education Private Limited, 2009.
+            
+No.74[電子書]
+書名:Pro Java EE spring patterns best practices and design strategies implementing java EE patterns with 
+作者:Kayal, Dhrubojyoti.
+出版地/出版社/出版年:Berkeley, Calif. : Apress ; New York : Distributed to the book trade in the United States by Springer-Verlag, 2008
+            
+No.75[電子書]
+書名:Beginning database-driven application development in Java EE using GlassFish
+作者:Vasiliev, Yuli.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2008.
+            
+No.76[電子書]
+書名:Bluetooth application programming with the Java APIs
+作者:Thompson, Timothy J. (Timothy Joseph), 1976-
+出版地/出版社/出版年:Amsterdam ; Boston : Morgan Kaufmann, 2008.
+            
+No.77[電子書]
+書名:TCP/IP sockets in Java practical guide for programmers
+作者:Calvert, Kenneth L.
+出版地/出版社/出版年:Amsterdam ; Boston : Elsevier/Morgan Kaufmann, c2008.
+            
+No.78[電子書]
+書名:Service oriented architecture with Java.
+作者:Barai, Malhar
+出版地/出版社/出版年:Birmingham : Packt Publishing Limited, 2008
+            
+No.79[電子書]
+書名:Service oriented Java business integration enterprise service bus integration solutions for Java dev
+作者:Binildas, C. A. (Christudas A.)
+出版地/出版社/出版年:Birmingham, UK : Packt Pub., c2008.
+            
+No.80[電子書]
+書名:A practical guide to data structures and algorithms using Java
+作者:Goldman, Sally A. (Sally Ann)
+出版地/出版社/出版年:Boca Raton : Chapman & Hall/CRC, c2008.
+            
+No.81[電子書]
+書名:Java數據結構和算法
+作者:拉佛 (Robert Lafore)
+出版地/出版社/出版年:北京 : 中國電力出版社, 2007
+            
+No.82[電子書]
+書名:Herb Schildt's Java Programming Cookbook
+作者:Schildt, Herbert
+出版地/出版社/出版年:Columbus, OH McGraw-Hill Incorporated 2007
+            
+No.83[電子書]
+書名:Schaum's Outline of Data Structures with Java, Second Edition
+作者:Hubbard, John R.
+出版地/出版社/出版年:Columbus, OH McGraw-Hill Incorporated 2007
+            
+No.84[電子書]
+書名:Sun Certified Enterprise Architect for Java EE Study Guide (Exam 310-051)
+作者:Allen, Paul
+出版地/出版社/出版年:Columbus, OH McGraw-Hill Incorporated 2007
+            
+No.85[電子書]
+書名:Java data mining strategy, standard, and practice : a practical guide for architecture, design, and 
+作者:Hornick, Mark F.
+出版地/出版社/出版年:Amsterdam ; Boston : Elsevier/Morgan Kaufmann, c2007.
+            
+No.86[電子書]
+書名:Schaum's outline of data structures with Java
+作者:Hubbard, J. R. (John Rast), 1943-
+出版地/出版社/出版年:New York : McGraw-Hill, c2007.
+            
+No.87[電子書]
+書名:Java programming
+作者:Simmons, Justin.
+出版地/出版社/出版年:Delhi : Global Media, 2007.
+            
+No.88[電子書]
+書名:Agile Java development with Spring, Hibernate and Eclipse
+作者:Hemrajani, Anil.
+出版地/出版社/出版年:Indianapolis, Ind. : Sams, c2006.
+            
+No.89[電子書]
+書名:Java phrasebook essential code and commands
+作者:Fisher, Timothy (Timothy R.)
+出版地/出版社/出版年:Indianapolis, IN : Sams Pub., 2006.
+            
+No.90[電子書]
+書名:SCJP Sun certified programmer for Java 5 study guide (exam 310-055)
+作者:Sierra, Kathy.
+出版地/出版社/出版年:New York : McGraw-Hill/Osborne, c2006.
+            
+No.91[電子書]
+書名:Multimedia Introduction to Programming Using Java
+作者:Gries, David.
+出版地/出版社/出版年:New York, NY : David Gries and Paul Gries, 2005.
+            
+No.92[電子書]
+書名:SAP fur Java-Entwickler Konzepte, Schnittstellen, Technologien
+作者:Jeske, Till.
+出版地/出版社/出版年:Berlin, Heidelberg : Springer-Verlag Berlin Heidelberg, 2005.
+            
+No.93[電子書]
+書名:Implementing Distributed Systems with Java and CORBA
+作者:Aleksy, Markus.
+出版地/出版社/出版年:Berlin, Heidelberg : Springer Berlin- Heidelberg, 2005.
+            
+No.94[電子書]
+書名:The Definitive Guide to Java Swing
+作者:Zukowski, John.
+出版地/出版社/出版年:Berkeley, CA : Apress ; New York : Distributed to the book trade in the U.S. by Springer-Verlag, 2005.
+            
+No.95[電子書]
+書名:Beginning Java Objects From Concepts to Code
+作者:Barker, Jacquie.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2005.
+            
+No.96[電子書]
+書名:Pro Java Programming
+作者:Spell, Brett.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2005.
+            
+No.97[電子書]
+書名:Scientific Engineering of Distributed Java Applications 4th International Workshop, FIDJI 2004, Luxe
+作者:FIDJI 2004 (2004 : Luxembourg, Luxembourg)
+出版地/出版社/出版年:Berlin Heidelberg : Springer-Verlag GmbH., 2005.
+            
+No.98[電子書]
+書名:JavaTech, an Introduction to Scientific and Technical Computing with Java.
+作者:Lindsey, Clark S.
+出版地/出版社/出版年:Cambridge : Cambridge University Press, 2005.
+            
+No.99[電子書]
+書名:精通Java手機遊戲與應用程序設計
+作者:陳 立偉
+出版地/出版社/出版年:北京 : 中國靑年出版社, 2005
+            
+No.100[電子書]
+書名:Java A Beginner's Guide, Third Edition
+作者:Schildt, Herbert
+出版地/出版社/出版年:Columbus, OH  McGraw-Hill Incorporated 2005
+            

@@ -1,0 +1,43 @@
+------laravel查詢結果：條目1-4，共4個結果查獲------
+No.1[一般圖書]
+書名:Laravel啟動與運行 : 現代PHP APP的建構框架
+作者:斯托佛 (Stauffer, Matt)
+出版地/出版社/出版年:臺北市 : 碁峰資訊, 2017[民106]
+            
+==========================================================
+               [NTUST Library Information]
+
+館藏地:本館
+條碼:C311037
+索書號:312.754 557.2 《鄰近架位館藏》
+冊次:
+年代:
+狀態:預約待取
+-----------------
+                    
+No.2[一般圖書]
+書名:Laravel 5實務專題範例教學 : 透過框架寫出更好的PHP程式碼
+作者:姜 琇森
+出版地/出版社/出版年:臺北市 : 佳魁資訊, 2016[民105]
+            
+==========================================================
+               [NTUST Library Information]
+
+館藏地:本館
+條碼:C306285
+索書號:312.754 347 《鄰近架位館藏》
+冊次:
+年代:
+狀態:預約待取
+-----------------
+                    
+No.3[電子書]
+書名:PHP development tool essentials
+作者:Russell, Chad.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2016.
+            
+No.4[電子書]
+書名:Lumen programming guide writing PHP microservices, REST and web service APIs
+作者:Redmond, Paul.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2016.
+            

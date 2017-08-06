@@ -1,0 +1,251 @@
+------java查詢結果：條目101-150，共281個結果查獲------
+No.101[電子書]
+書名:Advanced systems design with Java, UML, and MDA
+作者:Lano, K.
+出版地/出版社/出版年:Amsterdam ; Boston : Elsevier Butterworth-Heinemann, 2005.
+            
+No.102[電子書]
+書名:JAVA程式語言入門
+作者:爪哇工作室
+出版地/出版社/出版年:臺北市 : 全華, 2005[民94]
+            
+No.103[電子書]
+書名:Software architecture design patterns in Java
+作者:Kuchana, Partha.
+出版地/出版社/出版年:Boca Raton, FL : Auerbach Publications, 2004.
+            
+No.104[電子書]
+書名:How to program using Java
+作者:Jenkins, Tony, 1967-
+出版地/出版社/出版年:Basingstoke ; New, N.Y. : Palgrave Macmillan, 2004.
+            
+No.105[電子書]
+書名:Java手機PDA程式設計入門
+作者:王 森
+出版地/出版社/出版年:北京 : 電子工業出版社, 2004
+            
+No.106[電子書]
+書名:Java手機/PDA程序設計入門
+作者:王 森
+出版地/出版社/出版年:北京 : 電子工業出版社, 2004
+            
+No.107[電子書]
+書名:用Java/C#開發手機程序及移動應用
+作者:唐 大仕
+出版地/出版社/出版年:北京 : 電子工業出版社, 2004
+            
+No.108[電子書]
+書名:Java Demystified
+作者:Keogh, James
+出版地/出版社/出版年:Columbus, OH  McGraw-Hill Incorporated 2004
+            
+No.109[電子書]
+書名:Scientific engineering of distributed Java applications third international workshop, FIDJI 2003, Lu
+作者:FIDJI 2003 (2003 : Luxembourg, Luxembourg)
+出版地/出版社/出版年:Berlin ; New York : Springer-Verlag, c2004.
+            
+No.110[電子書]
+書名:Java cryptography extensions practical guide for programmers
+作者:Weiss, Jason.
+出版地/出版社/出版年:San Francisco, CA : Elsevier/Morgan Kaufmann, c2004.
+            
+No.111[電子書]
+書名:Object-oriented design with UML and Java
+作者:Barclay, Kenneth A., 1947-
+出版地/出版社/出版年:Oxford ; Burlington, MA : Elsevier Butterworth-Heinemann, 2004.
+            
+No.112[電子書]
+書名:Concurrent and distributed computing in Java
+作者:Garg, Vijay K. (Vijay Kumar), 1963-
+出版地/出版社/出版年:[Piscataway, N.J.?] : IEEE Press ; Hoboken, N.J. : Wiley-Interscience, c2004.
+            
+No.113[電子書]
+書名:用Java／C#開發手機程序及移動應用
+作者:唐 大仕
+出版地/出版社/出版年:北京 : 電子工業出版社, 2004
+            
+No.114[電子書]
+書名:Java數據庫編程寶典
+作者:多納休 (Donahue, J. O.)
+出版地/出版社/出版年:北京 : 電子工業出版社, 2003
+            
+No.115[電子書]
+書名:Guide to the unified process featuring UML, Java, and design patterns
+作者:Hunt, John, 1964-
+出版地/出版社/出版年:London ; New York : Springer, c2003.
+            
+No.116[電子書]
+書名:Scientific engineering for distributed Java applications International Workshop, FIDJI 2002, Luxembo
+作者:FIDJI 2002 (2002 : Luxembourg, Luxembourg)
+出版地/出版社/出版年:Berlin ; New York : Springer, c2003.
+            
+No.117[電子書]
+書名:Unit testing in Java how tests drive the code
+作者:Link, Johannes.
+出版地/出版社/出版年:San Francisco, Calif. : Morgan Kaufmann, c2003.
+            
+No.118[電子書]
+書名:Java 2 by example
+作者:Friesen, Geoff.
+出版地/出版社/出版年:Indianapolis, Ind. : Que, c2002.
+            
+No.119[電子書]
+書名:Java 2 The Complete Reference, Fifth Edition
+作者:Schildt, Herbert
+出版地/出版社/出版年:Columbus, OH McGraw-Hill Incorporated 2002
+            
+No.120[電子書]
+書名:Java(tm)2 A Beginners Guide
+作者:Schildt, Herbert
+出版地/出版社/出版年:Columbus, OH McGraw-Hill Incorporated 2002
+            
+No.121[電子書]
+書名:Essential Java for scientists and engineers
+作者:Hahn, Brian D.
+出版地/出版社/出版年:Oxford ; Boston : Butterworth-Heinemann, c2002.
+            
+No.122[電子書]
+書名:Real-time Java platform programming
+作者:Dibble, Peter.
+出版地/出版社/出版年:Palo Alto, Calif. :  Sun Microsystems Press,  c2002.
+            
+No.123[電子書]
+書名:Oracle8i Java Component Programming With EJB, CORBA AND JSP
+作者:Morisseau-Leroy, Nirva
+出版地/出版社/出版年:Columbus, OH McGraw-Hill Incorporated 2000
+            
+No.124[電子書]
+書名:Java應用程序設計接口
+作者:戈斯林 (Gosling, James)
+出版地/出版社/出版年:北京 : 北京大學出版社, 1997
+            
+No.125[電子書]
+書名:The law of Java
+作者:Colman, George, 1762-1836.
+出版地/出版社/出版年:Cambridge : Chadwyck-Healey, 1996.
+            
+No.126[電子書]
+書名:Digital image processing an algorithmic introduction using Java
+作者:Burger, Wilhelm.
+出版地/出版社/出版年:London : Springer London : Imprint: Springer, 2016.
+            
+No.127[電子書]
+書名:Modern programming made easy using Java, Scala, Groovy, and JavaScript
+作者:Davis, Adam L.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2016.
+            
+No.128[電子書]
+書名:Swing for Jython Jython UI and scripts development using Java Swing and WebSphere Application Server
+作者:Gibson, Robert A.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2015.
+            
+No.129[電子書]
+書名:Learn JavaFX 8 building user experience and interfaces with Java 8
+作者:Sharan, Kishori.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2015.
+            
+No.130[電子書]
+書名:Beginning NetBeans IDE for Java developers
+作者:Wielenga, Geertjan.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2015.
+            
+No.131[電子書]
+書名:Cultural psychology of coping with disasters the case of an earthquake in Java, Indonesia
+作者:
+出版地/出版社/出版年:New York, NY : Springer New York : Imprint: Springer, 2014.
+            
+No.132[電子書]
+書名:Pro JavaFX 8 a definitive guide to building desktop, mobile, and embedded Java clients
+作者:
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2014.
+            
+No.133[電子書]
+書名:Beginning EJB 3 Java EE 7 edition
+作者:
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2013.
+            
+No.134[電子書]
+書名:Advanced network programming - principles and techniques network application programming with Java
+作者:Ciubotaru, Bogdan.
+出版地/出版社/出版年:London : Springer London : Imprint: Springer, 2013.
+            
+No.135[電子書]
+書名:Practical Spring LDAP Enterprise Java LDAP development made easy
+作者:Varanasi, Balaji.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2013.
+            
+No.136[電子書]
+書名:Pro JavaFX 2 a definitive guide to rich clients with Java technology
+作者:
+出版地/出版社/出版年:Berkeley, CA : Apress, 2012.
+            
+No.137[電子書]
+書名:Beginning JSP, JSF and Tomcat Java web development
+作者:Zambon, Giulio.
+出版地/出版社/出版年:Berkeley, CA : Apress : Imprint: Apress, 2012.
+            
+No.138[電子書]
+書名:Introduction to computer graphics using Java 2D and 3D
+作者:Klawonn, Frank.
+出版地/出版社/出版年:London : Springer London, 2012.
+            
+No.139[電子書]
+書名:Proceeding of the 3rd International Conference on Geotechnical Engineering for Disaster Mitigation a
+作者:International Conference on Geotechnical Engineering (3rd : 2011 : Central Java, Indonesia)
+出版地/出版社/出版年:Singapore ; Hackensack, N.J. : World Scientific Pub. Co., c2011.
+            
+No.140[電子書]
+書名:Performing otherness Java and Bali on international stages, 1905-1952
+作者:Cohen, Matthew Isaac.
+出版地/出版社/出版年:New York, NY : Palgrave Macmillan, 2011.
+            
+No.141[電子書]
+書名:The definitive guide to Jython Python for the Java platform
+作者:
+出版地/出版社/出版年:Berkeley, CA : Apress, 2010.
+            
+No.142[電子書]
+書名:Every day a nightmare American pursuit pilots in the defense of Java, 1941-1942
+作者:Bartsch, William H., 1933-
+出版地/出版社/出版年:College Station : Texas A&M; University Press, c2010. (Baltimore, Md. : Project MUSE, 2013)
+            
+No.143[電子書]
+書名:Practical liferay Java-based portal applications development
+作者:Sarang, Poornachandra.
+出版地/出版社/出版年:Berkeley, CA : Apress, 2009.
+            
+No.144[電子書]
+書名:Introduction to Computer Graphics Using Java 2D and 3D
+作者:Klawonn, Frank.
+出版地/出版社/出版年:London : Springer-Verlag London Limited, 2008.
+            
+No.145[電子書]
+書名:Practical API design confessions of a java framework architect
+作者:Tulach, Jaroslav.
+出版地/出版社/出版年:Berkeley, Calif. : Apress ; New York : Distributed to the book trade in the United States by Springer-Verlag, 2008
+            
+No.146[電子書]
+書名:Building SOA-based composite applications using NetBeans IDE 6 design, build, test, and debug servic
+作者:Salter, David.
+出版地/出版社/出版年:Birmingham, U.K. : Packt Publishing Ltd., c2008 (Norwood, Mass. : Books24x7.com [generator])
+            
+No.147[電子書]
+書名:Google Web Toolkit GWT Java AJAX programming : a practical guide to Google Web Toolkit for creating 
+作者:Chaganti, Prabhakar.
+出版地/出版社/出版年:Birmingham, UK : Packt Publishing, 2007.
+            
+No.148[電子書]
+書名:Globus Toolkit 4 programming Java Services
+作者:Sotomayor, Borja.
+出版地/出版社/出版年:Amsterdam ; Boston : Elsevier ; Morgan Kaufmann, 2006.
+            
+No.149[電子書]
+書名:Pro J2ME Polish Open Source Wireless Java Tools Suite
+作者:Virkus, Robert.
+出版地/出版社/出版年:Berkeley, CA : Apress ; New York : Distributed to the book trade in the U.S. by Springer-Verlag New York, 2005.
+            
+No.150[電子書]
+書名:The JR programming language concurrent programming in an extended Java
+作者:Olsson, Ronald A.
+出版地/出版社/出版年:Boston : Kluwer Academic Publishers, c2004.
+            
