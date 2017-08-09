@@ -8,6 +8,7 @@ The NTUST Library Simple Crawer 使用台科大圖書館網站來製作簡單的
 $ pip install requests
 $ pip install bs4
 ```
+
 2.之後在shell打上`$ python NTUST_lib help`，會給你輸入說明
 ```sh
 Python NTUST_lib search [-t type] [-s scope] [-c content]
@@ -18,13 +19,16 @@ a author           d topic                 2 Books        6 E-Books
 c USA Claim number l China Claim number    3 Journals     7 Electronic Journal
 i ISBN             v Barcode               4 Audiovisual info.
 ```
+
 3.之後只要打上`$ python NTUST_lib search`，後面打上`-t`、`-s`、`-c`等變數，就會幫你把結果輸出成檔案(50筆為一個檔案)，儲存至當前的目錄
 | 變數 | 說明 |
 | ------ | ------ |
 | -t type | 查詢內容的類型 |
 | -s scope | 查詢館藏類型 |
 | -c content | 要查詢的內容 |
+
 4.檔案名稱命名規則：[台科大圖書館]以`type`查詢`scope`:`content`(Page`num`).txt
+
 5.輸出檔案結果範例(以查詢關鍵字為例)
 | 關鍵字 | 館藏類型 |結果|
 | ------ | ------ |------|
