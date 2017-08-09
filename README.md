@@ -48,4 +48,4 @@ i ISBN             v Barcode               4 Audiovisual info.
    [result-java3]: </NTUST_lib/sample/[台科大圖書館]以關鍵字查詢電子書:java(Page3).txt>
    [result-java4]: </NTUST_lib/sample/[台科大圖書館]以關鍵字查詢電子書:java(Page4).txt>
    [result-java5]: </NTUST_lib/sample/[台科大圖書館]以關鍵字查詢電子書:java(Page5).txt>
-   [result-java5]: </NTUST_lib/sample/[台科大圖書館]以關鍵字查詢電子書:java(Page6).txt>
+   [result-java6]: </NTUST_lib/sample/[台科大圖書館]以關鍵字查詢電子書:java(Page6).txt>
