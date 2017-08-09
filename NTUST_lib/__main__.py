@@ -19,7 +19,7 @@ Python NTUST_lib search [-t type] [-s scope] [-c content]
 ----------------------------------------    ------------------------------------
 X Keyword           t Book Name             1 All Result    5 Degree Thesis
 a author            d topic                 2 Books         6 E-Books
-c USA Claim number  l-China Claim number    3 Journals      7 Electronic Journal
-i-ISBN              v-Barcode               4 Audiovisual info.
+c USA Claim number  l China Claim number    3 Journals      7 Electronic Journal
+i ISBN              v Barcode               4 Audiovisual info.
 	"""
 	print(help_msg)
