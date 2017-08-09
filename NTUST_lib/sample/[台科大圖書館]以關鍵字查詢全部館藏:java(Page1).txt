@@ -1,6 +1,0 @@
-------java查詢結果：條目1-50，共1150個結果查獲------
-No.1[一般圖書]
-書名:Parallel Programming Patterns: Working with Concurrency in OpenMP, MPI, Java, and OpenCL 
-作者:Timothy G. Mattson
-出版地/出版社/出版年:Addison-Wesley Professional 2018
-            
