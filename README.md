@@ -8,7 +8,6 @@ The NTUST Library Simple Crawer 使用台科大圖書館網站來製作簡單的
 $ pip install requests
 $ pip install bs4
 ```
-
 2.之後在shell打上`$ python NTUST_lib help`，會給你輸入說明
 ```sh
 Python NTUST_lib search [-t type] [-s scope] [-c content]
@@ -21,6 +20,7 @@ i ISBN             v Barcode               4 Audiovisual info.
 ```
 
 3.之後只要打上`$ python NTUST_lib search`，後面打上`-t`、`-s`、`-c`等變數，就會幫你把結果輸出成檔案(50筆為一個檔案)，儲存至當前的目錄
+
 | 變數 | 說明 |
 | ------ | ------ |
 | -t type | 查詢內容的類型 |
@@ -33,10 +33,19 @@ i ISBN             v Barcode               4 Audiovisual info.
 
 | 關鍵字 | 館藏類型 |結果|
 | ------ | ------ |------|
-| Django | 全部館藏|[[台科大圖書館]以關鍵字查詢全部館藏:django(Page1).txt][result-django]
-| Laravel | 全部館藏|[[台科大圖書館]以關鍵字查詢全部館藏:laravel(Page1).txt][result-laravel]
-| Public | 學位論文|[[台科大圖書館]以關鍵字查詢學位論文:public(Page1).txt][result-public1] <br /> [[台科大圖書館]以關鍵字查詢學位論文:public(Page1).txt][result-public1]
+| Django | 全部館藏 |[[台科大圖書館]以關鍵字查詢全部館藏:django(Page1).txt][result-django]
+| Laravel | 全部館藏 |[[台科大圖書館]以關鍵字查詢全部館藏:laravel(Page1).txt][result-laravel]
+| Public | 學位論文 |[[台科大圖書館]以關鍵字查詢學位論文:public(Page1).txt][result-public1]<br />[[台科大圖書館]以關鍵字查詢學位論文:public(Page2).txt][result-public2]<br />[[台科大圖書館]以關鍵字查詢學位論文:public(Page3).txt][result-public3]
+| Java | 電子書 |[[台科大圖書館]以關鍵字查詢電子書:java(Page1).txt][result-java1]<br />[[台科大圖書館]以關鍵字查詢電子書:java(Page2).txt][result-java2]<br />[[台科大圖書館]以關鍵字查詢電子書:java(Page3).txt][result-java3]<br />[[台科大圖書館]以關鍵字查詢電子書:java(Page4).txt][result-java4]<br />[[台科大圖書館]以關鍵字查詢電子書:java(Page5).txt][result-java5]<br />[[台科大圖書館]以關鍵字查詢電子書:java(Page6).txt][result-java6]
 
    [result-django]: </NTUST_lib/sample/[台科大圖書館]以關鍵字查詢全部館藏:django(Page1).txt>
    [result-laravel]: </NTUST_lib/sample/[台科大圖書館]以關鍵字查詢全部館藏:laravel(Page1).txt>
    [result-public1]: </NTUST_lib/sample/[台科大圖書館]以關鍵字查詢學位論文:public(Page1).txt>
+   [result-public2]: </NTUST_lib/sample/[台科大圖書館]以關鍵字查詢學位論文:public(Page2).txt>
+   [result-public3]: </NTUST_lib/sample/[台科大圖書館]以關鍵字查詢學位論文:public(Page3).txt>
+   [result-java1]: </NTUST_lib/sample/[台科大圖書館]以關鍵字查詢電子書:java(Page1).txt>
+   [result-java2]: </NTUST_lib/sample/[台科大圖書館]以關鍵字查詢電子書:java(Page2).txt>
+   [result-java3]: </NTUST_lib/sample/[台科大圖書館]以關鍵字查詢電子書:java(Page3).txt>
+   [result-java4]: </NTUST_lib/sample/[台科大圖書館]以關鍵字查詢電子書:java(Page4).txt>
+   [result-java5]: </NTUST_lib/sample/[台科大圖書館]以關鍵字查詢電子書:java(Page5).txt>
+   [result-java5]: </NTUST_lib/sample/[台科大圖書館]以關鍵字查詢電子書:java(Page6).txt>
