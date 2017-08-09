@@ -3,7 +3,7 @@
 The NTUST Library Simple Crawer 使用台科大圖書館網站來製作簡單的Python爬蟲
 
 ### 爬蟲執行步驟
-1.如果是windows用戶，在執行[NTUST_lib](/NTUST_lib)之前，建議先新增requests、bs4函式庫：
+1.如果是windows用戶，在執行[NTUST_lib](/NTUST_lib)之前，建議先新增[requests](http://docs.python-requests.org/en/master/)、[bs4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)函式庫：
 ```sh
 $ pip install requests
 $ pip install bs4
@@ -24,3 +24,14 @@ i ISBN             v Barcode               4 Audiovisual info.
 | -t type | 查詢內容的類型 |
 | -s scope | 查詢館藏類型 |
 | -c content | 要查詢的內容 |
+4.檔案名稱命名規則：[台科大圖書館]以`type`查詢`scope`:`content`(Page`num`).txt
+5.輸出檔案結果範例(以查詢關鍵字為例)
+| 關鍵字 | 館藏類型 |結果|
+| ------ | ------ |------|
+| Django | 全部館藏|[[台科大圖書館]以關鍵字查詢全部館藏:django(Page1).txt][result-django]
+| Laravel | 全部館藏|[[台科大圖書館]以關鍵字查詢全部館藏:laravel(Page1).txt][result-laravel]
+| Public | 學位論文|[[台科大圖書館]以關鍵字查詢學位論文:public(Page1).txt][result-public1] <br /> [[台科大圖書館]以關鍵字查詢學位論文:public(Page1).txt][result-public1]
+
+   [result-django]: </NTUST_lib/sample/[台科大圖書館]以關鍵字查詢全部館藏:django(Page1).txt>
+   [result-laravel]: </NTUST_lib/sample/[台科大圖書館]以關鍵字查詢全部館藏:laravel(Page1).txt>
+   [result-public1]: </NTUST_lib/sample/[台科大圖書館]以關鍵字查詢學位論文:public(Page1).txt>
