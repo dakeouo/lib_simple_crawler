@@ -30,6 +30,7 @@ i ISBN             v Barcode               4 Audiovisual info.
 4.檔案名稱命名規則：[台科大圖書館]以`type`查詢`scope`:`content`(Page`num`).txt
 
 5.輸出檔案結果範例(以查詢關鍵字為例)
+
 | 關鍵字 | 館藏類型 |結果|
 | ------ | ------ |------|
 | Django | 全部館藏|[[台科大圖書館]以關鍵字查詢全部館藏:django(Page1).txt][result-django]
