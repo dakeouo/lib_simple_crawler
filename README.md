@@ -3,14 +3,14 @@
 The NTUST Library Simple Crawer 使用台科大圖書館網站來製作簡單的Python爬蟲
 
 ### 爬蟲執行步驟
-1.如果是windows用戶，在執行[NTUST_lib](/NTUST_lib)之前，建議先新增[requests](http://docs.python-requests.org/en/master/)、[bs4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)函式庫：
+1.如果是windows用戶，在執行[NTUST_lib](/NTUST_lib)之前，請確認您的Python版本是否為第3版，並新增[requests](http://docs.python-requests.org/en/master/)、[bs4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)函式庫：
 ```sh
 $ pip install requests
 $ pip install bs4
 ```
-2.之後在shell打上`$ python NTUST_lib help`，會給你輸入說明
+2.之後在shell打上`$ python3 NTUST_lib help`，會給你輸入說明
 ```sh
-Python NTUST_lib search [-t type] [-s scope] [-c content]
+Python3 NTUST_lib search [-t type] [-s scope] [-c content]
 -t    Search Book Type                      -s    Search Book Scope
 ----------------------------------------    ----------------------------------
 X Keyword          t Book Name             1 All Result   5 Degree Thesis
